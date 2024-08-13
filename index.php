@@ -770,7 +770,7 @@ include('db.php');
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p> All Rights Reserved | <a href="index.php">Absolut Technology System © 2024</a> <br>  Developed by | Albulena Lala <img src="images\9cbaedbc-afb1-48a4-8274-a880ba95de6c-removebg-preview.png" alt="" style= "wight: 30px; height: 40px; "> </p>
+		        <p> All Rights Reserved | <a href="index.php"> Albulena Lala © 2024</a> <br>  Developed by | Albulena Lala <img src="images\9cbaedbc-afb1-48a4-8274-a880ba95de6c-removebg-preview.png" alt="" style= "wight: 30px; height: 40px; "> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
