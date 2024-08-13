@@ -1,16 +1,1 @@
-*Database Name : - hotel.sql*
-user name : 1- Admin
-password  : 2- 1234
-            1.1- Albulena
-            2.1- 12345
--Jquery, JS, Bootstrap
-PHPmyadmin
--server-- XAMPP--
-*Run as Admin* for author rights.
-
--Links-
-http://localhost/hotel/index.php --> **Customers site
-http://localhost/hotel/admin/index.php --> **Staff
-
-
-
+Contact: Albulenalala5@gmail.com
